@@ -15,12 +15,21 @@
 
 ## Tech stack
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,html,css&perline=5&theme=dark)](https://skillicons.dev)
+
+**Frontend & mobile**
+
+[![Frontend](https://skillicons.dev/icons?i=react,astro,tailwind&perline=3&theme=dark)](https://skillicons.dev)
+
+**Backend & data**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql&perline=4&theme=dark)](https://skillicons.dev)
+
+**Tools & infrastructure**
+
+[![Tools](https://skillicons.dev/icons?i=git,docker,aws,linux,cloudflare&perline=5&theme=dark)](https://skillicons.dev)
 
 ## Let's talk
 
